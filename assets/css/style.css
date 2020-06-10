@@ -169,7 +169,7 @@ nav ul a:hover{
 
 
 
-@media (max-width: 375px){
+@media (max-width: 425px){
     .menu{
         display: none;
     }
